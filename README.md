@@ -1,1 +1,2 @@
-[Ozzy Banks.com](https://ozzybanks.github.io)
+# Author Website
+[ozzybanks.github.io](https://ozzybanks.github.io)
