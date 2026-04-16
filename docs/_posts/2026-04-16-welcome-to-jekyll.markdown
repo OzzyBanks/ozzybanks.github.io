@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Cultivation Fever"
 date:   2026-04-16 03:57:17 +0100
 categories: jekyll update
 ---
