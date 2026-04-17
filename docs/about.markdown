@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Ozzy. I made this website so I could log on to Goodreads (long story) but now that you're here...
+Hi, I'm Ozzy. I made this website so I could log on to Goodreads, but now that you're here...
 
 Check out [Cultivation Fever Volume 1 on Amazon.](https://amzn.eu/d/0ctoCTfb) Volume 2 coming soon!
 
