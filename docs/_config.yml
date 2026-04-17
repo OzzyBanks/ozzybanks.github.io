@@ -22,10 +22,10 @@
 title: Ozzy Banks
 email: ozzybanksauthor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Goodreads change my cover plz!
+ Getting those dogs at Goodreads to change my book cover - and connecting with fans, I guess.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ozzybanks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  OzzyBanks
+github_username:  OzzyBanks
 
 # Build settings
 theme: minima
