@@ -21,9 +21,10 @@
 
 title: Ozzy Banks
 email: ozzybanksauthor@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
- Getting those dogs at Goodreads to change my book cover - and connecting with fans, I guess.
 baseurl: "" # the subpath of your site, e.g. /blog
+description: >- # this means to ignore newlines until "baseurl:"
+ Getting those dogs at Goodreads to change my book cover - oh, and connecting with fans
+# Getting those dogs at Goodreads to change my book cover - and connecting with fans, I guess.
 url: "https://ozzybanks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  OzzyBanks
 
@@ -31,24 +32,6 @@ github_username:  OzzyBanks
 theme: minima
 plugins:
   - jekyll-feed
-
-# do you want to display a book section? true or false
-books: true
-
-# add your books here
-books-list:
-    book-2:
-        title: "Cultivation Fever: Volume 2"
-        cover: assets/images/books/cf2-cover.jpg
-        url: https://ozzybanks.github.io/2026/04/17/CFV2-Announcement.html
-        description: Coming soon
-    book-1:
-        title: "Cultivation Fever: Volume 1"
-        cover: assets/images/books/cf1-cover.jpg
-        url: https://amzn.eu/d/0ctoCTfb
-        description: "Reborn junkie Oscar Schwarz trains the powers of cultivation to prove himself better than his past life."
-    
-    # Add more books following the same pattern
 
 # Exclude from processing.
 # The following items will not be processed, by default.

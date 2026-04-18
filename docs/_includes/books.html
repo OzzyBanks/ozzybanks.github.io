@@ -1,7 +1,7 @@
-{% if site.books %}
+{% if site.data.books.books %}
 <section class="list">
     <div class="books-grid">
-        {% for book_hash in site.books-list %}
+        {% for book_hash in site.data.books.books-list %}
         {% assign book = book_hash[1] %}
             <div class="book-item">
                 <a class="book-link" href="{{ book.url }}" target="_blank" rel="noopener">

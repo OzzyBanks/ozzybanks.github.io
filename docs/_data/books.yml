@@ -1,0 +1,16 @@
+books: true
+
+books-list:
+    book-2:
+        title: "Cultivation Fever: Volume 2"
+        cover: assets/images/books/cf2-cover.jpg
+        url: 2026/04/17/CFV2-Announcement.html
+        #https://ozzybanks.github.io/2026/04/17/CFV2-Announcement.html
+        description: Coming soon
+    book-1:
+        title: "Cultivation Fever: Volume 1"
+        cover: assets/images/books/cf1-cover.jpg
+        url: https://amzn.eu/d/0ctoCTfb
+        description: A sinister elder. A mysterious new world.
+        # "Reborn junkie Oscar Schwarz trains the powers of cultivation to prove himself better than his past life."
+    # Add more books following the same pattern
