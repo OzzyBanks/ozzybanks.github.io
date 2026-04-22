@@ -23,7 +23,7 @@ title: Ozzy Banks
 email: ozzybanksauthor@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
- author site
+ author
 # Getting those dogs at Goodreads to change my book cover - and connecting with fans, I guess.
 url: "https://ozzybanks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  OzzyBanks
